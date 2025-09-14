@@ -1,3 +1,3 @@
 # INFO2180-lab1
 
-This is Lab 1 for Emeika Osbourne
+This is Lab-1 for Emeika Osbourne
